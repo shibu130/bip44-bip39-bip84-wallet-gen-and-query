@@ -1,0 +1,3 @@
+bip-utils             1.10.0
+beautifulsoup4
+ecdsa                 0.16.1
